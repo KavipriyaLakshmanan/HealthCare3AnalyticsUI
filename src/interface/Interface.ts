@@ -17,12 +17,8 @@ export interface ProductCardProps {
     navigateToProductDetails: (item: IProduct) => void;
 }
 
-export interface ProductGroupData {
-    cartItems: IProduct[];
-}
 export interface NavbarProps {
     navigate: (to: string) => void;
     location: Location;
-    isMobile: boolean;
 }
 
