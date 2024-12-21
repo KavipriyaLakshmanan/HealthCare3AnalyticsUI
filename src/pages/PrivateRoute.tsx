@@ -1,7 +1,6 @@
 import { ReactNode, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios"; // Import Axios for making HTTP requests
-
 function PrivateRoute({ children }: { children: ReactNode }) {
   const navigate = useNavigate();
 
@@ -9,20 +8,16 @@ function PrivateRoute({ children }: { children: ReactNode }) {
   const checkTokenInBackend = async () => {
     try {
       // Make a request to your backend endpoint to fetch the token
-      const response = await axios.get("YOUR_BACKEND_AUTH_ENDPOINT");
 
-      // Assuming your backend returns a structure like { token: "your_token" }
-      const { token } = response.data;
+      // If token exists, verify it or perform any necessary actions
+      var isLoggedIn = await axios.get(
+        "http://localhost:4000/Vana_Admin_Portal/user/getRegisteredUser"
+      );
 
-      if (token) {
-        // If token exists, verify it or perform any necessary actions
-        var isLoggedIn = await axios.get("http://localhost:3000/login");
-
-        if (isLoggedIn.data) {
-          navigate("/");
-        } else {
-          navigate("/login");
-        }
+      if (isLoggedIn.data) {
+        navigate("/");
+      } else {
+        navigate("/login");
       }
     } catch (error) {
       // Handle any errors that may occur during the request
