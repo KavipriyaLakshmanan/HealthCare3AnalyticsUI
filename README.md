@@ -1,0 +1,8 @@
+![Screenshot 2024-01-08 031431](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/119b28fb-0561-4af1-a5b6-26455b4fc917)
+![Screenshot 2024-01-08 031502](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/a29d4440-3722-4aad-a92e-9dac73df3b5d)
+![Screenshot 2024-01-08 031523](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/3131bba0-5a30-406f-b077-606594a0e48c)
+![Screenshot 2024-01-08 031539](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/e43b624d-3aa5-4270-b996-1ff4f89a9e5f)
+![Screenshot 2024-01-08 031551](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/528048df-d71f-4280-9890-7ef461277df6)
+![Screenshot 2024-01-08 031705](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/a4ac9eb0-5ec5-4885-b00d-6436bbd5d2ae)
+![Screenshot 2024-01-08 031721](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/63c7a702-bfbe-4a35-95dd-bce6b940de63)
+![Screenshot 2024-01-08 031731](https://github.com/KavipriyaLakshmanan/HealthCare3AnalyticsUI/assets/150338308/ce9c4a99-620f-42d3-afe8-f6e036a8cacd)
